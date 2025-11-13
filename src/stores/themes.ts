@@ -13,7 +13,7 @@ interface IThemeStore {
 export const useThemes = create<IThemeStore>()(
   persist(
     (set) => ({
-      selectedTheme: SYSTEM_COLORS[0],
+      selectedTheme: SYSTEM_COLORS[1],
       customTheme: CUSTOM_THEME_COLOR,
       chooseTheme: (theme: IThemeColor) => {
         set(() => ({ selectedTheme: theme }));
