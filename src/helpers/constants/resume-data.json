@@ -1,0 +1,233 @@
+{
+  "basics": {
+    "name": "Shahjalal",
+    "label": "Software Engineer(Backend & Frontend)",
+    "image": "",
+    "email": "mdjalal2012@gmail.com",
+    "phone": "+880 1680954856",
+    "url": "",
+    "summary": "i am focusing on full-stack web application development with backend technologies like PHP (Laravel, CakePHP, CI, or other php Framework  ) and Ruby on Rails, and frontend frameworks such as React, Angular, and Next.js and i have little experience in Inertia.js. In Additionally i have have hands-on experience in DevOps and clouds. In DevOps (Jenkins, GitHub Actions, gitlab CI/CD) and like AWS (EC2, Load Balancer, S3, Route 53, RDS, or other as application demands) and DigitalOcean.",
+    "location": {
+      "address": "",
+      "postalCode": "1212",
+      "city": "Middle Badda, Dhaka",
+      "countryCode": "",
+      "region": ""
+    },
+    "relExp": "9 years",
+    "totalExp": "9 Years",
+    "objective": "Eager to expand my skill set through external trainings to help boost all major front desk KPIs. Hoping to leverage organizational skills to help ABC Corp introduce time-saving schemes for all executives.",
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "shahjalal7311",
+        "url": "https://www.linkedin.com/in/shahjalal7311/"
+      },
+      {
+        "network": "twitter",
+        "username": "shahjalal7311",
+        "url": ""
+      },
+      {
+        "network": "github",
+        "username": "shahjalal7311",
+        "url": "https://github.com/shahjalal7311/"
+      },
+      {
+        "network": "hackerrank",
+        "username": "paicube",
+        "url": ""
+      },
+      {
+        "network": "hackerearth",
+        "username": "shahjalal7311",
+        "url": ""
+      },
+      {
+        "network": "codechef",
+        "username": "shahjalal7311",
+        "url": ""
+      },
+      {
+        "network": "leetcode",
+        "username": "Shahjalal7311",
+        "url": "https://leetcode.com/u/Shahjalal7311/"
+      },
+			{
+        "network": "medium",
+        "username": "shahjalal7311",
+        "url": "https://medium.com/@mdjalal2012"
+      },
+			{
+        "network": "stackoverflow",
+        "username": "shahjalal7311",
+        "url": "https://stackoverflow.com/users/5595107/md-shahjalal"
+      }
+    ]
+  },
+
+  "skills": {
+    "languages": [
+			{ "name": "Ruby on rails", "level": 70 },
+			{ "name": "React", "level": 70 },
+			{ "name": "MUI", "level": 2 },
+			{ "name": "css3", "level": 2 },
+			{ "name": "scss", "level": 2 },
+			{ "name": "jQuery", "level": 3 },
+      { "name": "Redux", "level": 3 },
+      { "name": "JavaScript", "level": 2 },
+      { "name": "HTML5", "level": 2 },
+      { "name": "tailwindcss", "level": 2 }
+    ],
+    "frameworks": [
+			{ "name": "Laravel", "level": 70 },
+			{ "name": "Cakephp", "level": 70 },
+			{ "name": "Codeigniter(CI)", "level": 70 },
+			{ "name": "Next", "level": 70 },
+			{ "name": "Angular", "level": 70 },
+			{ "name": "Api integration", "level": 70 }
+    ],
+    "technologies": [
+      { "name": "Algorithms", "level": 3 },
+      { "name": "PWA", "level": 3 },
+      { "name": "SQL", "level": 3 },
+      { "name": "Data Structures", "level": 3 }
+    ],
+		"clouds":[
+			{ "name": "AWS", "level": 3 },
+			{ "name": "Digital Ocean", "level": 3 },
+      { "name": "Jenkins", "level": 3 },
+			{ "name": "Docker", "level": 3 },
+			{ "name": "Capistrano", "level": 3 },
+			{ "name": "DNS setup", "level": 3 }
+		],
+    "libraries": [
+      
+    ],
+    "databases": [
+			{ "name": "Mysql", "level": 3 },
+			{ "name": "Radis", "level": 3 }
+		],
+    "practices": [
+      { "name": "Component based architecture", "level": 3 },
+			{ "name": "MVC", "level": 3 },
+      { "name": "Agile methodology", "level": 3 },
+      { "name": "Design Patterns", "level": 3 }
+    ],
+    "tools": [
+      { "name": "Git", "level": 3 },
+      { "name": "VS Code", "level": 3 },
+      { "name": "Slack", "level": 3 },
+      { "name": "Webpack", "level": 3 },
+      { "name": "Bitbucket", "level": 3 }
+    ]
+  },
+
+  "work": [
+    {
+      "id": "1",
+      "name": "Reivo Bangladesh",
+      "position": "Software Engineer",
+      "url": "https://reivo.co.jp/",
+      "startDate": "March 2018",
+      "isWorkingHere": true,
+      "endDate": null,
+      "highlights": [
+        "* Worked on a team of 3 developers to develop a web application for a client"
+      ],
+      "summary": "<ul><li>Develop web applications based PHP (Laravel, CakePHP, CI, or other php Framework ) and Ruby on Rails, and frontend frameworks such as React, Angular, and Next.js as per client demands</li><li>As for company needs works on DevOps and clouds. In DevOps (Jenkins, GitHub Actions, gitlab CI/CD) and like AWS (EC2, Load Balancer, S3, Route 53, RDS, or other as application demands) and DigitalOcean.</li><li> Use my extensive experience with front end development to define the structure and components for the project, making sure they are reusable</li><li>Keep the code quality high reviewing code from other developers and suggesting improvements</li><li> Interact with the designer to suggest changes and to make sure the view he has about the design is translated into actual functionality</li></ul>",
+      "years": ""
+    },
+    {
+      "id": "2",
+      "name": "Arobil Ltd.",
+      "position": "Programmer",
+      "url": "",
+      "startDate": "Jan 2016",
+      "isWorkingHere": false,
+      "endDate": "Feb 2018",
+      "highlights": [
+        "* Worked on a team of 10 developers to develop a web application for a client"
+      ],
+      "summary": "<ul><li>Develop web applications based on Php(Cakephp, CI), Angular 8 and Centose server</li><li>Develop Email server(postfix Devcot with roundcoube) for client</li><li>VPS server(own machine) configuration and optimization for E-commerce(Apache & Nginx)</li><li>Lead a Intern Team of 2 front end developers, giving support to the client's multi-cultural team, providing feedback, clarifying requirements and helping with technical questions</li><li>Keep the Project Manager and the IT Leads updated on the overall progress of the projects and manage the tasks distributed to the team</li><li>Keep the code and the features implemented by the other developers in accordance to the requirements</li></ul>",
+      "years": "2 years"
+    },
+    {
+      "id": "3",
+      "name": "Innovative Soft",
+      "position": "Intern(Final year project)",
+      "url": "",
+      "startDate": "OCT 2015",
+      "isWorkingHere": false,
+      "endDate": "Dec 2015",
+      "highlights": [
+        "* Worked on a team of 3 developers to develop a web application for a client using joomla."
+      ],
+      "summary": "<ul><li>Photoshop design convert html design coding</li><li>E-commerce development with prestashop, customizing preexisting themes</li></ul>",
+      "years": "3 month"
+    }
+  ],
+
+  "education": [
+    {
+      "id": "1",
+      "institution": "Ju private program incompleted",
+      "url": "https://www.mit.edu/",
+      "studyType": "MS",
+      "area": "Computer Science",
+      "startDate": "2018",
+      "isStudyingHere": false,
+      "endDate": null,
+      "score": "68%",
+      "courses": []
+    },
+    {
+      "id": "2",
+      "institution": "DIIT",
+      "url": "https://www.mit.edu/",
+      "studyType": "B.Sc in CSe",
+      "area": "Computer Science",
+      "startDate": "2010-07-01",
+      "isStudyingHere": false,
+      "endDate": "2015-12-12",
+      "score": "8.3 CGPA",
+      "courses": []
+    }
+  ],
+
+  "activities": {
+    "involvements": "<ul><li>Developed, refactor and performence increase number of application using ruby on rails(backend), nextjs as fronend(Ex. KnowledgeMixer.com, cloudplanner(https://www.cloudplanner.jp/), TMQ Data/Digital Station(https://www.alltoyota-tqm.toyota/), LAW Firm(https://admin.my-salut.jp/un/signin, local government tax payment(https://26p.jp/) and so on(Reivo.co.jp)</li><li>HousingBazar.com is a dynamic Agent Based Real Estate Portal, hosts 2,000+ property listings and serves 500+ active clients, property searches, E-Licensing and E-Learning(BAERA)( https://elearning.baera.gov.bd/ && https://ells.baera.gov.bd): After migrating 50k users from manual licensing to E-Licensing, we conducted comprehensive training sessions on platform navigation, safety measures, and compliance requirements.(arobil.ltd), DNMC Web APP and addmision process(https://www.dnmc.edu.bd/) and so on</li></ul>",
+
+    "achievements": "<ul><li>Ruby on Rails 6 Essential - complete Training cource 2020 from linkedin</li><li>Agile and Scrum Master Certificate from linkedin</li><li>Prepare for the AWS Certified Cloud Practitioner course from linkedin</li></ul>"
+  },
+
+  "volunteer": [
+    {
+      "id": "1",
+      "organization": "Company XYZ",
+      "position": "Organizer",
+      "url": "https://xyx.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Organized several hackthons & monthly meetup to improve the community",
+      "highlights": ["Awarded 'Volunteer of the Month'"],
+      "isVolunteeringNow": false
+    }
+  ],
+  "awards": [
+    {
+      "id": "1",
+      "title": "Certificate of exceptional bug finder",
+      "date": "2014-11-01",
+      "awarder": "XYZ client",
+      "summary": "* Recognition zero defect delivery"
+    },
+    {
+      "id": "2",
+      "title": "Certificate of best frontend developer",
+      "date": "2016-11-01",
+      "awarder": "XYZ client",
+      "summary": "Awarded for exceptional improvements made to improve user experience"
+    }
+  ]
+}
